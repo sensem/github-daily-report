@@ -1,0 +1,10 @@
+# 凭证与本地配置
+.github-token*.txt
+*.token
+
+# 运行时数据（抓取快照、注解、名单、日志）
+github-daily/data/
+
+# Python
+__pycache__/
+*.pyc

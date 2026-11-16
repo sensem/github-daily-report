@@ -1,0 +1,20 @@
+github-daily-report
+Copyright 2026 sensem
+
+This product includes material from a third party:
+
+  github-trending-daily/
+  Source: https://github.com/zhuweijun1003-source/zhuwj-skills
+          (directory "github-trending-daily")
+  Author: zhuweijun1003-source
+  License: NONE DECLARED by the original author
+
+The files under github-trending-daily/ are redistributed unmodified
+(byte-identical to upstream, blob SHAs match) for study and reference.
+They are NOT covered by this repository's Apache License 2.0.
+If you intend to redistribute them, obtain permission from the original
+author first.
+
+All other content in this repository (the github-daily/ harness and the
+top-level documentation) is licensed under the Apache License, Version 2.0.
+See the LICENSE file.

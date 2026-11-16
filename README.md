@@ -53,7 +53,23 @@ python github-daily/scripts/run_daily.py --only-diff     # 只看最近一次差
 
 ## 来源与许可
 
+**本仓库分两部分，许可不同：**
+
+| 部分 | 许可 |
+| --- | --- |
+| `github-daily/`（适配层）与根目录文档 | **Apache License 2.0**，见 [LICENSE](LICENSE) |
+| `github-trending-daily/`（上游 skill） | **不在 Apache-2.0 范围内**：上游仓库未附 LICENSE，此处按原字节保留、仅作学习与研究引用 |
+
 `github-trending-daily/` 来自 [zhuweijun1003-source/zhuwj-skills](https://github.com/zhuweijun1003-source/zhuwj-skills)
-的 `github-trending-daily` 目录，4 个文件按原字节保留（blob SHA 与上游一致）。
-上游仓库未附 LICENSE，此处仅作学习与研究引用；如需再分发，请先确认原作者授权。
-`github-daily/` 为在此基础上新增的适配层。
+的 `github-trending-daily` 目录，4 个文件逐字节保留（blob SHA 与上游一致）。
+如需再分发该目录，请先取得原作者授权。第三方归属说明见 [NOTICE](NOTICE)。
+
+```
+Copyright 2026 sensem
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+```
